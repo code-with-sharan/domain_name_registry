@@ -1,0 +1,17 @@
+{
+    "description": "I will be using the domain for my projects and the wildcard for some hosting stuff. This domain will be hosted on aws (ap-south-1)",
+    
+    "domain": "is-cool.dev",
+    "subdomain": "*.sharan",
+
+    "owner": {
+        "repo": "https://github.com/code-with-sharan/domain_name_registry",
+        "email": "sharanjitdotsingh@gmail.com"
+    },
+
+    "record": {
+        "A": ["13.232.27.153"]
+    },
+
+    "proxied": false
+}
